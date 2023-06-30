@@ -19,7 +19,9 @@
     "url": "/guides/installation"
   },
   "metadata": {
-    "og:image": "https://res.cloudinary.com/dxe761tbf/image/upload/v1686819329/documentation/SCR-20230615-ktyl.jpg"
+    "og:image": "https://res.cloudinary.com/dxe761tbf/image/upload/v1686819329/documentation/SCR-20230615-ktyl.jpg",
+    "og:title": "Saba",
+    "og:description": "Saba is a Raycast extension that transforms your spotlight search into a virtual TV remote."
   },
   "tabs": [],
   "navigation": [
