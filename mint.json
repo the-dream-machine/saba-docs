@@ -18,7 +18,9 @@
     "name": "Install Extension",
     "url": "/guides/installation"
   },
-
+  "metadata": {
+    "og:image": "https://res.cloudinary.com/dxe761tbf/image/upload/v1686819329/documentation/SCR-20230615-ktyl.jpg"
+  },
   "tabs": [],
   "navigation": [
     {
