@@ -30,7 +30,8 @@
       "pages": [
         "welcome/introduction",
         "welcome/features",
-        "welcome/get-access"
+        "welcome/get-access",
+        "welcome/questions"
       ]
     },
     {
